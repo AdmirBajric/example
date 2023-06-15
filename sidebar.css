@@ -1,0 +1,8 @@
+#sidebar {
+  width: 15%;
+  height: 100%;
+  background-color: rgb(205, 232, 223);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
